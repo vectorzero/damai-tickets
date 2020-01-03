@@ -1,0 +1,16 @@
+{
+  "name": "damai",
+  "version": "1.0.0",
+  "description": "大麦抢票小工具",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js --inspect",
+    "start": "node src/index.js"
+  },
+  "author": "liudiguang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "puppeteer": "^2.0.0"
+  }
+}
